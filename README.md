@@ -1,4 +1,3 @@
-# Crypt
 ## Crypt by WhiteHats
 
 Cryptography maded by WhiteHats team
